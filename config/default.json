@@ -1,3 +1,4 @@
 {
-  "mongoURI": "mongodb+srv://calavera:calavera@cluster0.jmjai.mongodb.net/myFirstDatabase?retryWrites=true&w=majority"
+  "mongoURI": "mongodb+srv://calavera:calavera@cluster0.jmjai.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+  "jwtSecret": "secret"
 }
